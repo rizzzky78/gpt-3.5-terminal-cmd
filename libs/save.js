@@ -11,8 +11,6 @@ const saveChat = async () => {
   
   await fs.writeFile("./data/chat.json", JSON.stringify(userChats, null, 2));
   await fs.writeFile(`./data/chat-response-${userChats.length - 1}.txt`, response.content);
-  
-  console.info("chat has been saved!");
 };
 
 module.exports = saveChat;

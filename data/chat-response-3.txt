@@ -1,0 +1,22 @@
+TypeScript dan JavaScript adalah dua bahasa pemrograman yang sering digunakan dalam pengembangan aplikasi web dan mobile. Berikut ini adalah definisi, perbedaan, dan keuntungan dari TypeScript dan JavaScript.
+
+Definisi:
+- TypeScript adalah bahasa pemrograman open-source yang dikembangkan oleh Microsoft. TypeScript memperluas JavaScript dengan menambahkan fitur-fitur seperti tipe data dan class-based object-oriented programming.
+- JavaScript adalah salah satu bahasa pemrograman paling populer di dunia. JavaScript biasanya digunakan untuk mengembangkan aplikasi web dan mobile, dan menampilkan interaksi dengan pengguna.
+
+Perbedaan:
+- Salah satu perbedaan utama antara TypeScript dan JavaScript adalah bahwa TypeScript memiliki tipe data yang didefinisikan secara eksplisit, sedangkan JavaScript tidak.
+- TypeScript menggunakan transpiler untuk mengubah kode TypeScript menjadi kode JavaScript, sedangkan JavaScript langsung dieksekusi oleh browser atau runtime environment.
+- TypeScript mendukung konsep-konsep pemrograman berorientasi objek seperti class dan inheritance, sedangkan JavaScript lebih mengandalkan prototyping.
+
+Keuntungan:
+- Penggunaan tipe data yang didefinisikan secara eksplisit dalam TypeScript dapat membantu mengurangi kesalahan pada saat runtime.
+- Pemrograman berorientasi objek dalam TypeScript dapat membuat kode lebih mudah dibaca dan dipahami, serta dapat memungkinkan penggunaan modul dan dependency injection.
+- TypeScript menyediakan fasilitas dalam pembuatan template yang dapat langsung digantikan pada saat transpilasi ke JavaScript.
+
+Sumber:
+- Chakrabarti, P., Halbert, J., & Wu, J. (2018). TypeScript Application Development. Packt Publishing.
+- Flanagan, D. (2011). JavaScript: The Definitive Guide. O'Reilly Media.
+
+Contoh format penulisan pustaka:
+Flanagan, D. (2011). JavaScript: The Definitive Guide. O'Reilly Media.

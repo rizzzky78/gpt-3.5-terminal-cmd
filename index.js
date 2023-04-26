@@ -1,6 +1,10 @@
 const saveChat = require("./libs/save");
 console.info("connecting...");
 
-saveChat().catch((e) => {
-  throw Error(e);
-});
+saveChat()
+  .then(() => {
+    console.info("Chats has been saved!")
+  })
+  .catch((e) => 
+  throw Error(e)       
+  })
